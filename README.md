@@ -4,7 +4,7 @@
 <img src="https://i.postimg.cc/Hn1dgsFx/banner-git.png">
 
 
-## Sobre mi
+## 👨‍💻 Sobre mí <img src="https://media.giphy.com/media/j2pWZpr5RlpCodOB0d/giphy.gif" width="32px">  
 ## 🔥 Fullstack Developer | ⭐ React & Node.js Specialist  
 
 💻 **Apasionado de la programación y la tecnología** | 🚀 Creando soluciones web & mobile  
